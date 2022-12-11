@@ -11,6 +11,12 @@
 		5CDA6A5B2946644800FBD985 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A5A2946644800FBD985 /* ContentView.swift */; };
 		5CDA6A5D2946644A00FBD985 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CDA6A5C2946644A00FBD985 /* Assets.xcassets */; };
 		5CDA6A602946644A00FBD985 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CDA6A5F2946644A00FBD985 /* Preview Assets.xcassets */; };
+		5CDA6A6D29466A7000FBD985 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A6C29466A7000FBD985 /* HomeView.swift */; };
+		5CDA6A6F29466A7B00FBD985 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A6E29466A7B00FBD985 /* DetailsView.swift */; };
+		5CDA6A71294671DB00FBD985 /* HomeListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A70294671DB00FBD985 /* HomeListRow.swift */; };
+		5CDA6A73294675CA00FBD985 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A72294675CA00FBD985 /* JsonLoader.swift */; };
+		5CDA6A75294675DE00FBD985 /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CDA6A74294675DE00FBD985 /* PlaceModel.swift */; };
+		5CDA6A772946787300FBD985 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CDA6A762946787300FBD985 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		5CDA6A5A2946644800FBD985 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5CDA6A5C2946644A00FBD985 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CDA6A5F2946644A00FBD985 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5CDA6A6C29466A7000FBD985 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		5CDA6A6E29466A7B00FBD985 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		5CDA6A70294671DB00FBD985 /* HomeListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeListRow.swift; sourceTree = "<group>"; };
+		5CDA6A72294675CA00FBD985 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
+		5CDA6A74294675DE00FBD985 /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
+		5CDA6A762946787300FBD985 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +65,13 @@
 			children = (
 				5CDA6A582946644800FBD985 /* VanTourismApp.swift */,
 				5CDA6A5A2946644800FBD985 /* ContentView.swift */,
+				5CDA6A70294671DB00FBD985 /* HomeListRow.swift */,
+				5CDA6A6C29466A7000FBD985 /* HomeView.swift */,
+				5CDA6A6E29466A7B00FBD985 /* DetailsView.swift */,
 				5CDA6A5C2946644A00FBD985 /* Assets.xcassets */,
+				5CDA6A762946787300FBD985 /* data.json */,
+				5CDA6A74294675DE00FBD985 /* PlaceModel.swift */,
+				5CDA6A72294675CA00FBD985 /* JsonLoader.swift */,
 				5CDA6A5E2946644A00FBD985 /* Preview Content */,
 			);
 			path = VanTourism;
@@ -126,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5CDA6A602946644A00FBD985 /* Preview Assets.xcassets in Resources */,
+				5CDA6A772946787300FBD985 /* data.json in Resources */,
 				5CDA6A5D2946644A00FBD985 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +156,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CDA6A6D29466A7000FBD985 /* HomeView.swift in Sources */,
+				5CDA6A6F29466A7B00FBD985 /* DetailsView.swift in Sources */,
 				5CDA6A5B2946644800FBD985 /* ContentView.swift in Sources */,
+				5CDA6A71294671DB00FBD985 /* HomeListRow.swift in Sources */,
+				5CDA6A75294675DE00FBD985 /* PlaceModel.swift in Sources */,
+				5CDA6A73294675CA00FBD985 /* JsonLoader.swift in Sources */,
 				5CDA6A592946644800FBD985 /* VanTourismApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

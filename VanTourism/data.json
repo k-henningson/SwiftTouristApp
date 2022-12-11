@@ -1,0 +1,37 @@
+[
+	{
+    "id": 1,
+		"name": "Science World",
+    "imageName": "science-world",
+		"subtitle": "Geodesic dome with interactive exhibits",
+		"description": "Science World is a science centre run by a not-for-profit organization called ASTC Science World Society in Vancouver, British Columbia, Canada. It is located at the end of False Creek and features many permanent interactive exhibits and displays, as well as areas with varying topics throughout the years.\n\nPrior to the building being handed over to Science World by the city government in 1987, the building was built as Expo Centre for the Expo 86 world's fair. Following the end of Expo 86, the building was re-purposed as a science centre. The science centre opened on May 6, 1989, as Science World.[2] From 2005 to 2020, the museum was branded as Science World at Telus World of Science, before it reverted to its original name."
+	},
+	{
+    "id": 2,
+		"name": "Gastown",
+    "imageName": "gastown",
+		"subtitle": "Steam Clock, souvenirs & trendy eateries",
+		"description": "Gastown is the original settlement that became the core of the city of Vancouver, British Columbia, Canada, and a national historic site and a neighbourhood in the northwest section of the Downtown Eastside, adjacent to Downtown Vancouver.\n\nIts historical boundaries – the waterfront (now Water Street and the CPR tracks), Carrall Street, Hastings Street, and Cambie Street – followed the borders of the 1870 townsite survey, the proper name and postal address of which was Granville, B.I. The official boundary does not include most of Hastings Street except for the Woodward's and Dominion Buildings, and stretches east past Columbia Street, to the laneway running parallel to the west side of Main Street."
+	},
+	{
+    "id": 3,
+		"name": "Sea to Sky Gondola",
+    "imageName": "sea-to-sky-gondola",
+		"subtitle": "Scenic gondola with hiking & cafes",
+		"description": "Winter is right around the corner and the seasons are quickly changing here at Sea to Sky Gondola. Make sure to check out our current conditions for the latest on your favourite trails and activities.\n\nSea to Sky Gondola provides an incredible experience 885m above sea level. Start your adventure with a thrilling gondola ride, take in the sweeping views, explore our favourite trails, and enjoy some time out in nature."
+	},
+	{
+    "id": 4,
+		"name": "Granville Island Public Market",
+    "imageName": "granville-island",
+		"subtitle": "Island destination for dining & culture",
+		"description": "The Granville Island Public Market is the jewel in the Island’s crown. An indoor market featuring a fascinating assortment of colourful food and produce stores, showcasing handcrafted products and the very finest in unique gifts. All fresh from the ocean, the oven or the field."
+	},
+	{
+    "id": 5,
+		"name": "Stanley Park",
+    "imageName": "slankey-park",
+		"subtitle": "Sprawling urban park with scenic seawall",
+		"description": "Stanley Park is a 405-hectare (1,001-acre) public park in British Columbia, Canada that makes up the northwestern half of Vancouver's Downtown Peninsula, surrounded by waters of Burrard Inlet and English Bay. The park borders the neighbourhoods of West End and Coal Harbour to its southeast, and is connected to the North Shore via the Lions Gate Bridge. The historic lighthouse on Brockton Point marks the park's easternmost point. While it is not the largest of its kind, Stanley Park is about one-fifth larger than New York City's 340-hectare (840-acre) Central Park and almost half the size of London's 960-hectare (2,360-acre) Richmond Park.\n\nStanley Park has a long history. The land was originally used by Indigenous peoples for thousands of years before British Columbia was colonized by the British during the 1858 Fraser Canyon Gold Rush and was one of the first areas to be explored in the city. For many years after colonization, the future park with its abundant resources would also be home to non-Indigenous settlers. The land was later turned into Vancouver's first park when the city incorporated in 1886. It was named after Lord Stanley, 16th Earl of Derby, a British politician who had recently been appointed Governor General. It was originally known as Coal Peninsula and was set aside for military fortifications to guard the entrance to Vancouver harbour. In 1886 Vancouver city council successfully sought a lease of the park which was granted for $1 per year. In September 1888 Lord Stanley opened the park in his name."
+	}
+]
